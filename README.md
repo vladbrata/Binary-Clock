@@ -1,0 +1,1 @@
+Ceasul binar pentru ASC.
