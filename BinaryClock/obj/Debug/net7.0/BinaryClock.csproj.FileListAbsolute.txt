@@ -1,0 +1,14 @@
+D:\Coding\Binary-Clock\BinaryClock\bin\Debug\net7.0\BinaryClock.exe
+D:\Coding\Binary-Clock\BinaryClock\bin\Debug\net7.0\BinaryClock.deps.json
+D:\Coding\Binary-Clock\BinaryClock\bin\Debug\net7.0\BinaryClock.runtimeconfig.json
+D:\Coding\Binary-Clock\BinaryClock\bin\Debug\net7.0\BinaryClock.dll
+D:\Coding\Binary-Clock\BinaryClock\bin\Debug\net7.0\BinaryClock.pdb
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.AssemblyInfoInputs.cache
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.AssemblyInfo.cs
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.csproj.CoreCompileInputs.cache
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.dll
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\refint\BinaryClock.dll
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.pdb
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\BinaryClock.genruntimeconfig.cache
+D:\Coding\Binary-Clock\BinaryClock\obj\Debug\net7.0\ref\BinaryClock.dll
